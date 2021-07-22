@@ -1,0 +1,4 @@
+username = CHC_APO
+active key = aio_Djmk90BXrp4UCwNXgZJpygsPvkXv
+
+https://io.adafruit.com/api/v2/CHC_APO/feeds/temp/data
